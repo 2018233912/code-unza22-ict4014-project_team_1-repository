@@ -1,5 +1,7 @@
 # sshms
+
 Swift Student Hostel Maintenance System(SSHMS)
+
 The SSHMS is a web application implemented by Project Team 1 of ICT 4014 class of 2022 at the University of Zambia. The aim of this project is to help in the maintenance of facilities at the University of Zambia.
 
 The system consists of 6 user modes; Admin, Student, Member of Staff, Key Custodian, Resident Engineer and Superintendent. Below are the default login credentials for each user and some important privileges of each.

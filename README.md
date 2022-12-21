@@ -44,14 +44,19 @@ password: swift
 privileges: manage(create, read, update, delete) users and departments(under resident engineer's department), manage Maintenance types, manage (view, approve or reject) Maintenance requests, track and manage maintenance activities, generate  maintenance reports and view service feedback from students.
 
 Default Login Credentials for the maintenance activities management system(planned activities):
+
 Email: admin@sshms.com
 password: swift
 
-Default Login Credentials for the user feedback system(Service Feedback)
+Default Login Credentials for the user feedback system(Service Feedback):
+
 Email: admin@sshms.com
 password: swift
 
 6. Superintendent
+
 email: superitendent@unza.zm
+
 password: swift
+
 privileges:  manage(create, read, update, delete) users and departments(under the superintendents’ jurisdiction) and view Maintenance requests and images.
